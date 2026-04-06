@@ -1,0 +1,7 @@
+apiVersion: v2
+name: web-bcodex-react-app1
+icon: https://raw.githubusercontent.com/yagami-escobar/web-bcodex-react-app1/main/src/assets/hero.png
+description: React Vite Web App
+type: application
+version: 0.1.0
+appVersion: "v1.0.0"
